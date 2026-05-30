@@ -155,7 +155,9 @@ This helps the model understand both sequence order and spatial image structure.
 ## Step 7: Transformer Encoder
 
 The Transformer encoder processes the projected visual embeddings.
-
+<p align="center">
+  <img src="images/Figure4.jpg" width="750" height="950"/>
+</p>
 ### Encoder Components
 
 - Multi-head self-attention
@@ -273,19 +275,25 @@ The results show that Transformer-based attention improves multilingual caption 
 ## Architecture Diagram
 
 <p align="center">
-  <img src="images/Figure1.jpg" style="width:90%; max-height:500px; object-fit:contain;"/>
+  <img src="images/Figure1.jpg" width="550" height="750"/>
+</p>
+<p align="center">
+  <img src="images/Figure3.jpg" width="550" height="750"/>
+</p>
+<p align="center">
+  <img src="images/Figure5.jpg" width="550" height="750"/>
 </p>
 
 ## Training Results
 
 <p align="center">
-  <img src="images/Figure6.png" width="700"/>
+  <img src="images/Figure6.png" width="550" height="750"/>
 </p>
 
 ## Sample Caption Predictions
 
 <p align="center">
-  <img src="images/Figure14.jpg" width="900"/>
+  <img src="images/Figure14.jpg" width="550" height="750"//>
 </p>
 
 # Skills Demonstrated
