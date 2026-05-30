@@ -272,23 +272,21 @@ The results show that Transformer-based attention improves multilingual caption 
 
 ## Architecture Diagram
 
-```md
-![Architecture Diagram](images/Figure1.jpg)
-```
+<p align="center">
+  <img src="images/Figure1.jpg" style="width:90%; max-height:500px; object-fit:contain;"/>
+</p>
 
 ## Training Results
 
-```md
-![Training Results](images/Figure6.png)
-```
+<p align="center">
+  <img src="images/Figure6.png" width="700"/>
+</p>
 
 ## Sample Caption Predictions
 
-```md
-![Sample Predictions](images/Figure14.jpg)
-```
-
----
+<p align="center">
+  <img src="images/Figure14.jpg" width="900"/>
+</p>
 
 # Skills Demonstrated
 
